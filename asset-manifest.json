@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/JairoLima06/react-projeto/static/css/main.68fc7824.css",
-    "main.js": "/JairoLima06/react-projeto/static/js/main.8e0163f1.js",
-    "static/media/check-mark.svg": "/JairoLima06/react-projeto/static/media/check-mark.53f24c0a28e150404896.svg",
-    "index.html": "/JairoLima06/react-projeto/index.html",
-    "main.68fc7824.css.map": "/JairoLima06/react-projeto/static/css/main.68fc7824.css.map",
-    "main.8e0163f1.js.map": "/JairoLima06/react-projeto/static/js/main.8e0163f1.js.map"
+    "main.css": "/react-projeto/static/css/main.a08258bb.css",
+    "main.js": "/react-projeto/static/js/main.8e0163f1.js",
+    "static/media/check-mark.svg": "/react-projeto/static/media/check-mark.53f24c0a28e150404896.svg",
+    "index.html": "/react-projeto/index.html",
+    "main.a08258bb.css.map": "/react-projeto/static/css/main.a08258bb.css.map",
+    "main.8e0163f1.js.map": "/react-projeto/static/js/main.8e0163f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.68fc7824.css",
+    "static/css/main.a08258bb.css",
     "static/js/main.8e0163f1.js"
   ]
 }
